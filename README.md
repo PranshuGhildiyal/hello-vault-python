@@ -42,6 +42,6 @@ Cluster Name vault-cluster-b6c0037e
 Cluster ID b5b68f9d-2eb6-f7c0-8aeb-b7098a841337
 HA Enabled false
 
-Create a secret - `vault kv put secret/hello-vault-python password=Hashi123
+Create a secret - vault kv put secret/hello-vault-python password=Hashi123
 
 Read the secret to verify - "vault kv get secret/hello-vault-python
