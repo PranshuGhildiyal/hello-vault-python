@@ -44,4 +44,4 @@ HA Enabled false
 
 Create a secret - vault kv put secret/hello-vault-python password=Hashi123
 
-Read the secret to verify - "vault kv get secret/hello-vault-python
+Read the secret to verify - vault kv get secret/hello-vault-python
