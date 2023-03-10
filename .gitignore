@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#-----
+/sample_app/migrations
+.DS_Store
